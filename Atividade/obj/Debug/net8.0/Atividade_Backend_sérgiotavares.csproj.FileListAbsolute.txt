@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\bin\Debug\net8.0\Atividade_Backend_sérgiotavares.exe
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\bin\Debug\net8.0\Atividade_Backend_sérgiotavares.deps.json
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\bin\Debug\net8.0\Atividade_Backend_sérgiotavares.runtimeconfig.json
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\bin\Debug\net8.0\Atividade_Backend_sérgiotavares.dll
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\bin\Debug\net8.0\Atividade_Backend_sérgiotavares.pdb
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\obj\Debug\net8.0\Atividade_Backend_sérgiotavares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\obj\Debug\net8.0\Atividade_Backend_sérgiotavares.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\obj\Debug\net8.0\Atividade_Backend_sérgiotavares.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\obj\Debug\net8.0\Atividade_Backend_sérgiotavares.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\obj\Debug\net8.0\Atividade_Backend_sérgiotavares.dll
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\obj\Debug\net8.0\refint\Atividade_Backend_sérgiotavares.dll
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\obj\Debug\net8.0\Atividade_Backend_sérgiotavares.pdb
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\obj\Debug\net8.0\Atividade_Backend_sérgiotavares.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Atividade_Backend_sérgiotavares\Atividade\obj\Debug\net8.0\ref\Atividade_Backend_sérgiotavares.dll
